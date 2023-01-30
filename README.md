@@ -1,7 +1,7 @@
 
 # VS Code
 
-- Plugin Sourcery
+## Plugin Sourcery
 
 <img src="https://user-images.githubusercontent.com/17609819/215381979-54034eed-a120-42c3-9973-a5c09e7fc108.png" width="400" height="300">
 
@@ -9,7 +9,10 @@
 
 ![image](https://user-images.githubusercontent.com/17609819/215381638-5eb79336-a784-46e7-94ea-121ff0dd7e17.png)
 
-- Auto Formator
+![image](https://user-images.githubusercontent.com/17609819/215387243-6758e846-28b6-428a-a3a0-c66a7df9367a.png)
+
+
+## Auto Formator
 
 ![image](https://user-images.githubusercontent.com/17609819/215381789-89923860-40ee-4066-820d-790218e09d68.png)
 
